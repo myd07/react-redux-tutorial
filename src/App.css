@@ -1,0 +1,8 @@
+.books-list {
+  width: 200px;
+  display: inline-block;
+}
+.book-detail {
+  display: inline-block;
+  height: 100%;
+}
